@@ -2,6 +2,8 @@
 
 ## Codigos básicos no R para acessar os dados do DataSUS e mapeá-los com o uso do CEP, um arquivo de logradouros e os limites de bairros de um município: exercício com exemplo em Salvador/BA
 
+Basta instalar o R e o RStudio e baixar as pastas para o seu computador :smiley:
+
 Este repositório traz 4 tutoriais que podem ser executados em sequência, e faz parte do material didático desenvolvido para curso "Mapeamento e comunicação comunitária no combate a pandemias" oferecido no segundo semestre de 2020 para alunos de diversos vcursos de graduação e pós-graduação da Universidade Federal da Bahia e para agentes comunitários de saúde da cidade de Salvador/BA, Brasil.
 
 - **O Módulo 0 (zero) apresenta uma rápida introdução ao R** e ao RStudio, com os comandos básicos necessários durante todo o curso;
@@ -17,4 +19,6 @@ Para maiores detalhes sobre o pacote microdatasus consulte a página do autor: h
 Para a realização da geocodificação você precisrá de uma chave de API na Here Maps: https://developer.here.com/
 
 Os detalhes para a configuração do ambiente no RStudio e ára geração da chave de API estão detalhadamente descritas como comentários nos códigos.
+
+Se tiver alguma dúvida pode me encontrar em https://jpedrassoli.github.io/
 

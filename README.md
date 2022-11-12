@@ -1,4 +1,4 @@
-# Geocodifica-o-dos-dados-do-DataSUS-no-R
+# Geocodificacao-dos-dados-do-DataSUS-no-R
 
 ## Goeocodificação dos dados do DataSUS no R! :shipit:
 
